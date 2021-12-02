@@ -14,6 +14,9 @@
 - [Google Advanced Search](https://www.google.com/advanced_search)
 - [Telegram Articles Search](https://tgstat.ru/search)
 
+## Penetration
+- [Spyse - Internet Assets Search Engine](https://spyse.com/)
+
 ## Image Analysis
 - [PimEyes - Face Search Engine](https://pimeyes.com/en)
 - [ELA - Error Level Analysis](http://fotoforensics.com/)
