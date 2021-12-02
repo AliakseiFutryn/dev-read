@@ -14,3 +14,5 @@
 - [PimEyes - Face Search Engine](https://pimeyes.com/en)
 - [ELA - Error Level Analysis](http://fotoforensics.com/)
 
+## Etc.
+- [Namechk - User and Domain Name Checker](https://namechk.com/)
