@@ -12,6 +12,7 @@
 # Cyber Intelligence
 ## Search
 - [Google Advanced Search](https://www.google.com/advanced_search)
+- [Telegram Articles Search](https://tgstat.ru/search)
 
 ## Image Analysis
 - [PimEyes - Face Search Engine](https://pimeyes.com/en)
