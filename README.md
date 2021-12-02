@@ -17,5 +17,10 @@
 - [PimEyes - Face Search Engine](https://pimeyes.com/en)
 - [ELA - Error Level Analysis](http://fotoforensics.com/)
 
+## News Monitoring
+- [Newsbrief from Joint Research](https://emm.newsbrief.eu/)
+- [News Now](https://www.newsnow.co.uk/)
+- [Newslookup](https://newslookup.com/)
+
 ## Etc.
 - [Namechk - User and Domain Name Checker](https://namechk.com/)
