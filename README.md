@@ -13,6 +13,7 @@
 ## Search
 - [Google Advanced Search](https://www.google.com/advanced_search)
 - [Telegram Articles Search](https://tgstat.ru/search)
+- [BizNar - Mass media, Documents, Research Data, DeepWeb](https://biznar.com/)
 
 ## Penetration
 - [Spyse - Internet Assets Search Engine](https://spyse.com/)
