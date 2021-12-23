@@ -9,6 +9,9 @@
 - [How We Encode Code Reviews at Netlify](https://www.netlify.com/blog/2020/03/05/feedback-ladders-how-we-encode-code-reviews-at-netlify/)
 - [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
 
+## SQL
+- [Rebuild Indexes in a SQL Azure Environment](https://www.beyondtrust.com/docs/privilege-management/reporting/install/db-maintenance/rebuild-indexes-sql-azure.htm)
+
 # Cyber Intelligence
 ## Search
 - [Google Advanced Search](https://www.google.com/advanced_search)
