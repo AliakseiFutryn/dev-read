@@ -12,6 +12,9 @@
 ## SQL
 - [Rebuild Indexes in a SQL Azure Environment](https://www.beyondtrust.com/docs/privilege-management/reporting/install/db-maintenance/rebuild-indexes-sql-azure.htm)
 
+## Terms
+- [UbiquitousLanguage](https://martinfowler.com/bliki/UbiquitousLanguage.html)
+
 # Cyber Intelligence
 ## Search
 - [Google Advanced Search](https://www.google.com/advanced_search)
