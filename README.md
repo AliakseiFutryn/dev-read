@@ -4,6 +4,7 @@
 
 # Software Development
 - [Application Insights with Serilog in ASP.NET Core](https://arvehansen.net/codecave/2020/03/01/appinsights-and-logging-with-serilog/)
+- [Скриптинг в C# или динамическое выполнение в runtime](https://habr.com/en/post/553310/)
 
 ## Soft Skills
 - [Amazon Leadership Principles](https://www.amazon.jobs/en/principles)
