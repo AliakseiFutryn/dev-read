@@ -8,6 +8,7 @@
 
 ## Soft Skills
 - [Amazon Leadership Principles](https://www.amazon.jobs/en/principles)
+- [GENTLEMEN’S BOOK OF ETIQUETTE](https://www.gutenberg.org/files/39293/39293-h/39293-h.htm)
 
 ## Git & Code Review
 - [How We Encode Code Reviews at Netlify](https://www.netlify.com/blog/2020/03/05/feedback-ladders-how-we-encode-code-reviews-at-netlify/)
