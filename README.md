@@ -20,6 +20,9 @@
 ## Terms
 - [UbiquitousLanguage](https://martinfowler.com/bliki/UbiquitousLanguage.html)
 
+## Microservices
+- [Fallacies of distributed computing](https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing)
+
 # Cyber Intelligence
 ## Search
 - [Google Advanced Search](https://www.google.com/advanced_search)
