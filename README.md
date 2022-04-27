@@ -8,6 +8,9 @@
 - [Entity Framework Core 5 Performance: Power Of Table Hints](https://www.thinktecture.com/entity-framework-core/power-of-table-hints/)
 - [Первичный ключ – GUID или автоинкремент?](https://habr.com/en/post/265437/)
 
+## Async, Concurrency, Performance, TPL
+- [ConfigureAwait FAQ](https://devblogs.microsoft.com/dotnet/configureawait-faq/)
+
 ## Soft Skills
 - [Amazon Leadership Principles](https://www.amazon.jobs/en/principles)
 - [GENTLEMEN’S BOOK OF ETIQUETTE](https://www.gutenberg.org/files/39293/39293-h/39293-h.htm)
